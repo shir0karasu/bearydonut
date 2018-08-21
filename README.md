@@ -1,1 +1,3 @@
-# bearydonut.github.io
+# BearyDonuT
+
+Dogs and Art
